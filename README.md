@@ -8,7 +8,7 @@ Codex Java is a lightweight, fully functional, **AI-based coding assistant** bui
 
 ## 📸 Demo
 
-![Codex Java Chat UI](C:\Users\Abhishek SHUKLA\OneDrive\Pictures\Screenshots\Screeshot(1)) <!-- Optional: Add screenshot here -->
+[Codex Java Chat UI](C:\Users\Abhishek SHUKLA\OneDrive\Pictures\Screenshots\Screeshot(1)) <!-- Optional: Add screenshot here -->
 
 ---
 
